@@ -1,0 +1,3 @@
+﻿  file_system.c
+C:\Users\아가\Desktop\ccc\도서관리프로그램\도서관리프로그램\file_system.c(42,13): warning C4477: 'scanf_s' : 서식 문자열 '%c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  도서관리프로그램.vcxproj -> C:\Users\아가\Desktop\ccc\도서관리프로그램\x64\Debug\도서관리프로그램.exe
